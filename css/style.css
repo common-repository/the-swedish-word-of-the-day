@@ -1,0 +1,19 @@
+#daily-swedish-word{
+margin: 10px 0px 10px 0px;
+}
+
+#swedish-word{
+font-size: 20px;
+padding-top:5px;
+}
+
+#swedish-word-translation{
+font-size: 15px;
+padding-bottom:20px;
+font-style:italic;
+}
+
+h2.daily-swedish-word-heading {
+font-size:28px;
+line-height:120%;
+}
